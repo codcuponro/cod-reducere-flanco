@@ -1,6 +1,6 @@
 # Cod Reducere Flanco Smart Discounter
 
-O colecție de coduri de reducere Flanco Smart Discounter. Le folosim pentru testarea cuvintelor cheie cod reducere Flanco, voucher Flanco, cupon Flanco, și cod promotional Flanco de pe Cuponescu.ro.
+O colecție de coduri de reducere Flanco. Le folosim pentru testarea cuvintelor cheie [cod reducere Flanco](https://cuponescu.ro/magazin/flanco), [voucher Flanco](https://cuponescu.ro/magazin/flanco), [cupon Flanco](https://cuponescu.ro/magazin/flanco), și [cod promotional Flanco](https://cuponescu.ro/magazin/flanco) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-flanco a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
