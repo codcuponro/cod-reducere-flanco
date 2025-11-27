@@ -1,0 +1,27 @@
+{
+  "name": "cod-reducere-flanco",
+  "version": "1.0.0",
+  "description": "O colecție de coduri de reducere Flanco Smart Discounter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cod reducere",
+    "voucher",
+    "cupon",
+    "cod promotional",
+    "flanco",
+    "smart discounter",
+    "reduceri",
+    "cuponescu"
+  ],
+  "author": "Cuponescu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianCuponescu/cod-reducere-flanco.git"
+  },
+  "homepage": "https://www.cuponescu.ro"
+}
+
